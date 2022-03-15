@@ -9,6 +9,7 @@ namespace ConsoleApp2
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello again!");
             Console.WriteLine("Second change");
+            Console.WriteLine("Andrijina promjena");
         }
     }
 }
